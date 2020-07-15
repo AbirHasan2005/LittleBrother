@@ -9,7 +9,7 @@ I am not the main developer of this tool. I just tried to modify this and add En
 ## Disclaimer:
 LittleBrother was developed to do some research on yourself and to see the private and sensitive information you can leave behind on social media.  I in no way encourage the use of this tool on anyone other than yourself or to use this tool improperly.  The authors of LittleBrother cannot be held responsible for the use of its tool.
 
-![Screenshot](https://github.com/AbirHasan2005/CoronaStats/blob/master/capture.png)
+![Screenshot](https://github.com/AbirHasan2005/LittleBrother/blob/master/capture.png)
 
 ## Installation for Linux:
 You must have Git and Python3 installed on your machine.
